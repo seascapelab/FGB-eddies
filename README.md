@@ -7,7 +7,7 @@ Limer B*, Bloomberg J, Holstein DM (2020) The Influence of Eddies on Coral Larva
 
 Included in this repository are datasets and scripts generated during the course of this study that were essential to the study's analyses. Their descriptions are below:
 
-Gulf of Mexico (GOM) mesoscale eddies, extracted from the GOM Hybrid Coordinate Ocean Model (HYCOM, https://www.hycom.org) using sea surface height. (MAT files).
+Gulf of Mexico (GOM) mesoscale eddies, extracted from the GOM Hybrid Coordinate Ocean Model (HYCOM, https://www.hycom.org) using sea surface height. (MAT files -- Lat/Lon contours of eddy perimeters).
 
 Eddy Day output and code, describing the number of mesoscale features interacting with the FGB over time.
 
