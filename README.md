@@ -5,7 +5,7 @@ Limer B*, Bloomberg J, Holstein DM (2020) The Influence of Eddies on Coral Larva
 
 *Corresponding author. blimer1@lsu.edu
 
-Included in this repository are datasets and scripts associated with 15 years of eddy contours generated for the Gulf of Mexico, from 2004-2018. Given lat/lon data in a time series, these materials can be used to determine the influence of mesoscale eddies on the distribution, dispersal, and movement of your Gulf of Mexico study species. The following is a list of the datasets and scripts included.
+Included in this repository are datasets and scripts associated with 15 years of eddy contours generated for the Gulf of Mexico, from 2004-2018. Given lat/lon data in a time series, these materials can be used to determine the influence of mesoscale eddies on the distribution, dispersal, and movement of your Gulf of Mexico study species. The following is a list and description of the datasets and scripts included.
 
 1) Gulf of Mexico (GOM) mesoscale eddies
 
