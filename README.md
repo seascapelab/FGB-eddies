@@ -1,6 +1,6 @@
 # Gulf of Mexico Eddies
 
-Included in this repository are datasets and scripts associated with 15 years of eddy contours generated for the Gulf of Mexico, from 2004-2018. Given movement data in a lat/lon time series, and a .shp file of your study area, these materials can be used to determine the influence of mesoscale eddies on the distribution, dispersal, and movement of your Gulf of Mexico study species. 
+Included in this repository are datasets and scripts associated with 15 years of eddy contours generated for the Gulf of Mexico, from 2004-2018. Given any movement data in a lat/lon time series, or just a .shp file of your study area, these materials can be used to determine the influence of mesoscale eddies on the distribution, dispersal, and movement of your Gulf of Mexico study species. 
 
 Datasets associated with Limer et al. 2020:
 Limer B*, Bloomberg J, Holstein DM (2020) The Influence of Eddies on Coral Larval Retention in the Flower Garden Banks. Front. Mar. Sci 7:372. doi: 10.3389/fmars.2020.00372
