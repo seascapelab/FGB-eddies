@@ -9,7 +9,9 @@ Included in this repository are datasets and scripts associated with 15 years of
 
 1) Gulf of Mexico (GOM) mesoscale eddies
 
-Eddies were extracted from the GOM Hybrid Coordinate Ocean Model (HYCOM, https://www.hycom.org) using sea surface height with EddyScan, a MATLAB algorithm (Faghmous et al., 2015). A folder for each year includes .MAT files for all eddies in that year. The "Eddies_Daily" folders contain several struct variables, acyclonic and antiyclonic, for all eddies found on each day of the year. Each struct contains several features for each eddy of that day. The "Eddy_Perimenter" folders each contain two cells, one cyclonic and another anticyclonic. These cells contain the Lat/Lon perimters for each eddy. The rows of the cell are the days of the year, the columns are each eddy on a given day of the year. The "SSH_Daily" folders contain sea surface height data for eevry day of the year, and lon and lat.MAT files used for plotting. The remaining two folders for each year are products of the EddyScan algoirthm.
+Eddies were extracted from the GOM Hybrid Coordinate Ocean Model (HYCOM, https://www.hycom.org) using sea surface height with EddyScan, a MATLAB algorithm (Faghmous et al., 2015). A folder for each year includes .MAT files for all eddies in that year.
+
+The "Eddies_Daily" folders contain several struct variables, acyclonic and antiyclonic, for all eddies found on each day of the year. Each struct contains several features for each eddy of that day. The "Eddy_Perimenter" folders each contain two cells, one cyclonic and another anticyclonic. These cells contain the Lat/Lon perimters for each eddy. The rows of the cell are the days of the year, the columns are each eddy on a given day of the year. The "SSH_Daily" folders contain sea surface height data for eevry day of the year, and lon and lat.MAT files used for plotting. The remaining two folders for each year are products of the EddyScan algoirthm.
 
 2) "Eddy Day" .MAT output and script 
 
