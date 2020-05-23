@@ -17,7 +17,7 @@ The "Eddies_Daily" folders contain several MAT files each with a struct variable
 
 2) "Eddy Days" .MAT output and scripts
 
-This dataset describes the number of mesoscale features interacting with the FGB over time. The script has been adapted to read in any (.shp) shapefile, for use with any study area within the Gulf of Mexico. We have attached both the "Eddy_Days_Cyclonic.m" and "Eddy_Days_Anticyclonic.m" scripts, which calculate Eddy Days for cyclonic and anticyclonic eddies, respectively. The attached dataset is for Eddy Days calculated for all months in all years within a 10 km and 25 km buffer of the Flower Garden Banks National Marine Sanctuary boundaries. See the script for more details about the work flow. Included in this section are separate shape files each for a 10 and 25 km buffers around the East and West Flower Garden Banks. Buffer polygons include both banks, collectively.
+This dataset describes the number of mesoscale features interacting with the FGB over time. The script has been adapted to read in any (.shp) shapefile, for use with any study area within the Gulf of Mexico. We have attached both the "Eddy_Days_Cyclonic.m" and "Eddy_Days_Anticyclonic.m" scripts, which calculate Eddy Days for cyclonic and anticyclonic eddies, respectively. The attached dataset is for Eddy Days calculated for all months in all years within a 10 km and 25 km buffer of the Flower Garden Banks National Marine Sanctuary boundaries. See the script for more details about the work flow. Included in this section are separate shape files each for a 10, 15, and 25 km buffer around the East and West Flower Garden Banks. Buffer polygons include both banks, collectively.
 
 3) Santa Claus Boat code
 
