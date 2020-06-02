@@ -17,9 +17,13 @@ Using the eddy perimeter data from the "Eddy_Days" folder, the GoM Eddies folder
 
 This dataset describes the number of mesoscale features interacting a shape file over time (monthly). The script uses the Eddy_Perimeter data and defaults to a polygon of the FGB National Marine Sanctuary boundaries, but has been adapted to read in any (.shp) shapefile, for use with any study area within the Gulf of Mexico. We have attached both the "Eddy_Days_Cyclonic.m" and "Eddy_Days_Anticyclonic.m" scripts, which calculate Eddy Days for cyclonic and anticyclonic eddies, respectively. The attached dataset is for Eddy Days calculated for all months in a given year. Included in this section are separate shape files each for a 10, 15, and 25 km buffer around the East and West Flower Garden Banks. Buffer polygons include both banks, collectively.
 
-3) "Santa Claus Boat"
+3) "Santa Claus Boat -- Figures 3-4"
 
-This script was used to estimate the number of virtual larval particles entrained within any GoM eddy features throughout the entire time series of the dispersal dataset. The script uses indexing that is specific to Connectivity Modeling System output and is not applicable to all movement or dispersal time-series data, so it will be made available upon request. MAT files containing our final datasets will be uploaded shortly as an example.
+We have uploaded zipped MAT files containing the final datasets used to produce the boxplots in Figures 3-4 of our manuscript.
+
+The Santa Claus Boat script was used to estimate the number of virtual larval particles entrained within any GoM eddy features throughout the entire time series of the dispersal dataset. We affectionately refer to it as "Santa Claus Boat", because it is as if someone like Santa Claus could be multiple places at once, surveying the ocean for interactions of multiple particles with multiple eddies, at the same time.
+
+The scripts and analysis used indexing that is specific to biophysical dispersal model output and may not applicable to all movement or dispersal time-series data, so the scripts and other datasets are available upon request. 
 
 Other associated datasets, including the trajectory data from our particle simulations, are available upon reasonable request.
 
