@@ -9,19 +9,19 @@ Limer B*, Bloomberg J, Holstein DM (2020) The Influence of Eddies on Coral Larva
 
 The following is a list and description of the datasets and scripts included:
 
-1) Eddy_Plotting
+1) "Eddy Days" .MAT output and scripts
 
-Using the eddy perimeter data from the "Eddy_Days" folder, the GoM Eddies folder contians the script, "Plot_Eddy_Contours" used to plot all eddy contours (cyclonic or anticycolonic) for a given day of a year. This script can be used in relation to movement or dispersal data to assess the potential interactions of eddies with your study species.
+This dataset describes the number of mesoscale features interacting with a shape file over time (monthly). The script uses the Eddy_Perimeter data and defaults to a buffer polygon around the FGB National Marine Sanctuary boundaries, but has been adapted to read in any (.shp) shapefile, for use with any study area within the Gulf of Mexico. We have attached both the "Eddy_Days_Cyclonic.m" and "Eddy_Days_Anticyclonic.m" scripts, which calculate Eddy Days for cyclonic and anticyclonic eddies, respectively. The attached dataset is for Eddy Days calculated for all months in a given year. 
 
-2) "Eddy Days" .MAT output and scripts
+2) Eddy_Plotting
 
-This dataset describes the number of mesoscale features interacting a shape file over time (monthly). The script uses the Eddy_Perimeter data and defaults to a polygon of the FGB National Marine Sanctuary boundaries, but has been adapted to read in any (.shp) shapefile, for use with any study area within the Gulf of Mexico. We have attached both the "Eddy_Days_Cyclonic.m" and "Eddy_Days_Anticyclonic.m" scripts, which calculate Eddy Days for cyclonic and anticyclonic eddies, respectively. The attached dataset is for Eddy Days calculated for all months in a given year. Included in this section are separate shape files each for a 10, 15, and 25 km buffer around the East and West Flower Garden Banks. Buffer polygons include both banks, collectively.
+Using the eddy perimeter data from the "Eddy_Days" folder, the Eddy_Plotting folder contains the script, "Plot_Eddy_Contours" used to plot all eddy contours (cyclonic or anticycolonic) for a given day of a year. Movment or dispersal data can be plotted over the eddy fields to help assess the potential interactions of eddies with your study species.
 
 3) "Santa Claus Boat -- Figures 3-4"
 
 We have uploaded zipped MAT files containing the final datasets used to produce the boxplots in Figures 3-4 of our manuscript.
 
-The Santa Claus Boat script was used to estimate the number of virtual larval particles entrained within any GoM eddy features throughout the entire time series of the dispersal dataset. We affectionately refer to it as "Santa Claus Boat", because it is as if someone like Santa Claus could be multiple places at once, surveying the ocean for interactions of multiple particles with multiple eddies, at the same time.
+The Santa Claus Boat script was used to estimate the number of virtual larval particles entrained within any GoM eddy features throughout the entire time series of the dispersal dataset. We affectionately refer to it as "Santa Claus Boat", because it is as if someone like Santa Claus could be multiple places at once, surveying the ocean for intersections of multiple particles with multiple eddies, at the same time.
 
 The scripts and analysis used indexing that is specific to biophysical dispersal model output and may not applicable to all movement or dispersal time-series data, so the scripts and other datasets are available upon request. 
 
